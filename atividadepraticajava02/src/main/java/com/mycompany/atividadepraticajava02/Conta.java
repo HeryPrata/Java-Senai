@@ -6,7 +6,7 @@ package com.mycompany.atividadedepraticajava02;
 
 /**
  *
- * @author lucas.areas
+ * @author HeryPrata
  */
 public class Conta {
     
